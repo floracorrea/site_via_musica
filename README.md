@@ -25,17 +25,26 @@ Este é o site oficial da Via Música, onde os usuários podem conhecer os curso
 
 via-musica/
 ├── index.html               # Página principal
+
 ├── cursos.html              # Página de cursos disponíveis
+
 ├── modalidades.html         # Página de modalidades de aulas
+
 ├── formulario.html          # Página de formulário de dúvidas e inscrições
+
 ├── agenda.html              # Página de agenda de próximos cursos
+
 ├── css/
 │   └── styles.css           # Arquivo de estilos customizados
+
 ├── js/
 │   └── scripts.js           # Arquivo de scripts customizados
+
 └── assets/
     ├── img/                 # Imagens utilizadas no site
+    
     └── ...                  # Outros assets (se houver)
+    
 
 🏂 Como Executar o Projeto
 
